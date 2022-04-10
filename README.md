@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeitaoYan
 - 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Django and vuejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: yanweitao@hotmail.com
 
